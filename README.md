@@ -56,13 +56,10 @@
     <ul>
         <li>Programming Languages: Python </li>
         <li>Web Development: HTML, CSS</li>
-       
-    </ul>
+     </ul>
 </section>
-
 <section>
-    
-    </ul>
+ </ul>
 </section>
 <section>
     <h2>Contact Me</h2>
